@@ -1,6 +1,6 @@
 import FigmaClone from '../images/FigmaClone.png';
 export const Bio = {
-  name: "Suraj Yadav",
+  name: "Niraj Yadav",
   roles: [
     "Full Stack Developer",
     // "Web Developer",
